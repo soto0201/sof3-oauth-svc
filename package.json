@@ -1,0 +1,23 @@
+{
+  "name": "sof3-oauth-svc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soto0201/sof3-oauth-svc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soto0201/sof3-oauth-svc/issues"
+  },
+  "homepage": "https://github.com/soto0201/sof3-oauth-svc#readme"
+}
